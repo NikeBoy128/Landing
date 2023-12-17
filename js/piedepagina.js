@@ -32,7 +32,7 @@ function agregarPieDePagina() {
                             class="fab fa-google"></i></a></p>
                 <p><i class="fa fa-phone-alt mr-2"></i>+57 3106779073 / 3212055021</p>
                 <p><i class="fa fa-envelope mr-2"></i>jjpluservices@gmail.com</p>
-                <a href="https://wa.me/qr/IY7NQQNQPYGGF1" class="btn btn-primary py-md-3 px-md-5 mt-2">Reservar
+                <a href="https://wa.me/573209596096" class="btn btn-primary py-md-3 px-md-5 mt-2">Reservar
                     Ahora</a>
             </div>
         </div>
